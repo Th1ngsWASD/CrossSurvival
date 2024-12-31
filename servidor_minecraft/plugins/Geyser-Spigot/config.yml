@@ -214,6 +214,6 @@ use-direct-connection: true
 # Whether Geyser should attempt to disable compression for Bedrock players. This should be a benefit as there is no need to compress data
 # when Java packets aren't being handled over the network.
 # This requires use-direct-connection to be true.
-disable-compression: true
+disable-compression: false
 
 config-version: 4

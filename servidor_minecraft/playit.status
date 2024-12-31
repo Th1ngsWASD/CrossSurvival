@@ -1,630 +1,966 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735602835909 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735603629014 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602838975 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603632076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602842048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603635163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602845127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603638248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602848200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603641325 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602851280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603644391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602854339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603647453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602857407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603650530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602860465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603653605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602863523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603656673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602866603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603659743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602869669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603662816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602872726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603665892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602875811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603668960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602878873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603672031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602881938 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603675096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602884992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603678274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602888050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603681344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602891110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603684423 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602894167 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603687574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602897229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603690634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602900293 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603693822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602903664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603696896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602906730 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603699984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602909796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603703104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602912856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603706194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602916092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603709257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602919157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603712324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602922230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603715411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602925291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603718472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602928352 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603721540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602931408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603724598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602934483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603727729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602937561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603730790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602940622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603733846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602943695 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603736912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602946750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603739988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602949809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603743055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602952884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603746156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602955965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603749257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602959029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603752316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602962093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603755376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602965163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603758472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602968225 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603761554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602971295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603764621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602974359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603767757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602977417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603770853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602980485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603773914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602983553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603776972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602986627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603780031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602989686 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603783105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602992745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603786164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602995803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603789221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735602998865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603792282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603001948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603795369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603005015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603798437 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603008088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603801496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603011178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603804552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603014247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603807625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603017337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603810723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603020398 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603813776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603023459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603816950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603026518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603820007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603029578 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603823071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603032639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603826143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603035706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603829232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603038772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603832295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603041830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603835364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603044893 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603838438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603047956 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603841506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603051032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603844608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603054092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603847769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603057155 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603850887 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603060218 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603853961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603063285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603857028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603066345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603860108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603069429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603863164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603072492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603866254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603075553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603869314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603078618 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603872375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603081695 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603875659 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603084753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603878724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603087816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603881784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603090878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603884841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603093956 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603887924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603097014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603890982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603100087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603894062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603103155 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603897131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603106219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603900192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603109294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603903266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603112363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603906352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603115457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603909424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603118515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603912485 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603121609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603915551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603124682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603918626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603127748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603921693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603130817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603924765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603133880 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603927824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603136947 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603930885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603140006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603933952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603143082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603937101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603146157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603940175 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603149220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603943246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603152282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603946313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735603155358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735603949378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-would-visits.gl.at.ply.gg:3465 => 127.0.0.1:19132 (minecraft-bedrock)
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603952450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603955546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603958617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603961737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603964802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603967874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603970950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603974046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603977105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603980182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603983241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603986316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603989388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603992469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603995538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735603998605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604001666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604004754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604007836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604010903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604013966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604017039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604020103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604023281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604026361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604029436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604032517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604035599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604038729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604041792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604044855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604047923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604051007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604054135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604057216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604060376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604063450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604066517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604069584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604072657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604075795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604078903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604081980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604085053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604088119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604091185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604094257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604097321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604100400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604103474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604106558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604109637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604112705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604115778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604118950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
+variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735604122009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+would-visits.gl.at.ply.gg:3465 => 127.0.0.1:3465 (minecraft-bedrock)
 variety-tech.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
